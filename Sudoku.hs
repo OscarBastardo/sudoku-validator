@@ -15,7 +15,7 @@
 --        del tablero que se desea resolver
 --    2.- Compilar el programa mediante el comando: 
 --        > :l Sudoku.hs 
---    3.- 3.- Ejecutar el programa con el tablero como parámetro mediante 
+--    3.- Ejecutar el programa con el tablero como parámetro mediante 
 --    el uso de la siguiente expresión:  putStrLn $ imprime $ resuelve' sudoku
 
 module Sudoku where
